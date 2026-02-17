@@ -1,0 +1,15 @@
+# system
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# environment
+.env
+
+# temporary
+tmp/
